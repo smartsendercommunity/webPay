@@ -1,6 +1,6 @@
 <?php
 
-// Данные интеграции с LiqPay
+// Данные интеграции с WebPay
 $store_id = "";
 $api_key = "";
 $secret_key = "";
